@@ -1,5 +1,8 @@
 """One-Liner Laugh Lab entry: a robot vacuum's excuse after eating a sock.
 
+The entry is a single one-liner (115 characters, within the 140-character
+limit) in which the vacuum pleads its case for swallowing a lone sock.
+
 Writes the single funny line to $MAKEFUN_OUTPUT_DIR/entry.txt.
 Python 3, standard library only.
 """
